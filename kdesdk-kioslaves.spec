@@ -36,5 +36,5 @@ Conflicts:	kdesdk4-core < 1:4.11.0
 A KIO slave interface for Perl documentation.
 
 %files -n kio-perldoc -f %{name}.lang
-%{_libdir}/plugins/kf6/kio/perldoc.so
+%{_qtdir}/plugins/kf6/kio/perldoc.so
 %{_datadir}/kio_perldoc/pod2html.pl
