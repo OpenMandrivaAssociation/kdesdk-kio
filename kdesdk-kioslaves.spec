@@ -1,6 +1,6 @@
 Summary:	KDE SDK KIO slaves
 Name:		kdesdk-kio
-Version:	25.12.2
+Version:	25.12.3
 Release:	1
 Group:		Graphical desktop/KDE
 License:	GPLv2+
